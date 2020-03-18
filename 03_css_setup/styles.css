@@ -11,7 +11,7 @@ p {
   }
   
   h5 {
-    color: rebeccapurple;
+    color: rebeccapurple !important;
   }
   
   .title {
