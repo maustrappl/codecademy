@@ -17,9 +17,10 @@ p {
     color: gray;
   }
   
-  #article-title {
+  .cursive {
     font-family: cursive;
-    text-transform: capitalize;
   }
   
-  
+  .capitalize {
+    text-transform: capitalize;
+  }
