@@ -36,6 +36,7 @@ p {
   width: 100%;
   font-family: Helvetica;
   font-size: 18px;
+  font-weight: bold;
 }
 
 .byline {
@@ -52,7 +53,7 @@ p {
   font-family: 'Playfair Display', serif;
   font-size: 14px;
   font-style: italic;
-  line-height: 14px; 
+  line-height: 14px;
   margin-left: 20px;
   padding: 10px;
   position: relative;
